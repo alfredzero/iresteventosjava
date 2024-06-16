@@ -1,0 +1,5 @@
+<resources>
+    <string name="event_image_desc">Image representing the event</string>
+
+    <string name="app_name">EventosIrest</string>
+</resources>
